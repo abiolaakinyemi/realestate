@@ -9,11 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.1.0",
+    "@chakra-ui/react": "^1.8.5",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "axios": "^0.26.0",
+    "framer-motion": "^6.2.8",
+    "millify": "^4.0.0",
+    "next": "^12.1.5",
+    "nprogress": "^0.2.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-horizontal-scrolling-menu": "^2.7.1",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
+    "@swc/cli": "^0.1.56",
+    "@swc/core": "^1.2.160",
+    "babel-eslint": "^10.1.0",
     "eslint": "8.10.0",
     "eslint-config-next": "12.1.0"
   }
