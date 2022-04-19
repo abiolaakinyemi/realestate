@@ -25,6 +25,7 @@
   "devDependencies": {
     "@swc/cli": "^0.1.56",
     "@swc/core": "^1.2.160",
+    "babel-eslint": "^10.1.0",
     "eslint": "8.10.0",
     "eslint-config-next": "12.1.0"
   }
