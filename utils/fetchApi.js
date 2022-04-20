@@ -9,5 +9,6 @@ export const fetchApi = async (url) => {
       "x-rapidapi-key": process.env.REACT_APP_COIN_RANKING_API_KEY,
     },
   });
+
   return data;
 };
