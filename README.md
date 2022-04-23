@@ -1,4 +1,4 @@
-###Real Estate App
+# Real Estate App
 
 This is real estate app built using NEXT JS  and Chakra UI as my interface. All the data gotten from this project were from Rapid API.
 
