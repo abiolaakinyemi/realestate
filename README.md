@@ -14,5 +14,6 @@ Note that this real estate app is geared towards United Arab Emirates (UAE) regi
 
 See a quick video tutorial of the app below.
 
+
 https://user-images.githubusercontent.com/84160458/164945529-e85b74ad-2f05-4fc6-8b88-42cadc0b1bfe.mp4
 
