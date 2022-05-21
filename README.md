@@ -1,6 +1,6 @@
 # Real Estate App
 
-This is real estate app built using NEXT JS  and Chakra UI as my interface. All the data consumed in this project was from Rapid API.
+This is real estate app built using NEXT.js  and Chakra UI as my user interface. All the data consumed in this project was from Rapid API.
 
 To run this application locally, please get a key from rapid api link below and paste the key to the fetchApi.js file in the utils folder and install all dependencies from the package.json file.
 
